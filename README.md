@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Guenness
+- 👀 I’m interested in working in programmer 
+- 🌱 I’m currently learning phyton, javascript, golang, c++ and ruby
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me 
+- 😄 Pronouns: he, his
+- ⚡ Fun fact: i´m independent programmer :)
